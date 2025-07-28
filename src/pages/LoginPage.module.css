@@ -1,0 +1,10 @@
+.glow {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle at 30% 30%, rgba(255, 165, 0, 0.3), transparent);
+  filter: blur(150px);
+  top: -100px;
+  left: -100px;
+  z-index: 0;
+}
