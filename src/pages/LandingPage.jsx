@@ -4,7 +4,7 @@ import FeatureGrid from "../Components/FeatureGrid";
 import SubHero from "../Components/SubHero";
 import Footer from "../Components/Footer";
 import GradientBlobs from "../Components/GradientBlobs";
-function LandingPage(){
+function LandingPage() {
   return(
     <div className="relative bg-black text-white font-sans ">
       {/* Gradient Layer */}
